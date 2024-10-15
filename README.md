@@ -1,3 +1,4 @@
-## VB.NET-SerialMonitorV1
+## Serial Monitor V1
 
+UART device communication software.
 <br/>
