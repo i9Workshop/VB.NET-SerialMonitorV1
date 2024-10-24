@@ -2,7 +2,7 @@
 
 UART device communication software.
 
-![Software-VB-Serial-Monitor-V1](https://github.com/user-attachments/assets/dad28397-aec0-4205-854e-21c5c42e477d)
+![Software-VB-Serial-Monitor-V1](https://github.com/user-attachments/assets/f85af790-4de4-4c10-aa4e-73bde04ffd4f)
 <br/>
 .NET Framework 4.7.2
 <br/>
